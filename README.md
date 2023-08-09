@@ -24,8 +24,8 @@
 ||||
 |---|---|---|
 |**No**|**Challenge**|**Solution**|
-|**1**|**<a href="https://github.com/Aswinth24/leetcode-solution/tree/main/0002-add-two-numbers">Add Two Numbers</a>**|**<a href="https://github.com/Aswinth24/leetcode-solution/tree/main/0002-add-two-numbers">Add Two Numbers</a>**|
-|**2**|**<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">longest-substring-without-repeating-characters</a>**|**<a href="https://github.com/Aswinth24/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters">longest-substring-without-repeating-characters</a>**|
+|**1**|**Add Two Numbers</a>**|**<a href="https://github.com/Aswinth24/leetcode-solution/tree/main/0002-add-two-numbers">link</a>**|
+|**2**|**longest-substring-without-repeating-characters**|**<a href="https://github.com/Aswinth24/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters">link</a>**|
 
 <h4>Difficuly Level : Hard</h4>
 
